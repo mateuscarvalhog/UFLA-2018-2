@@ -1,4 +1,4 @@
-# UFLA-2018-2
+# UFLA 2018-2
 Trabalhos, provas e listas do semestre 2018-2 da graduação em Ciência da Computação na Universidade Federal de Lavras.
 
 ## Outros materiais
